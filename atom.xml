@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hui12300.github.io</id>
     <title>10229</title>
-    <updated>2021-10-30T04:02:44.070Z</updated>
+    <updated>2021-10-30T04:09:55.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hui12300.github.io"/>
     <link rel="self" href="https://hui12300.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://hui12300.github.io/images/avatar.png</logo>
     <icon>https://hui12300.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 10229</rights>
+    <entry>
+        <title type="html"><![CDATA[点进来(4)]]></title>
+        <id>https://hui12300.github.io/post/dian-jin-lai-4/</id>
+        <link href="https://hui12300.github.io/post/dian-jin-lai-4/">
+        </link>
+        <updated>2021-10-30T04:05:30.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://hui12300.github.io/post-images/1635566988317.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[点进来(5)]]></title>
         <id>https://hui12300.github.io/post/xx/</id>
